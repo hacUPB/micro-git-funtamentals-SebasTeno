@@ -1,0 +1,28 @@
+#Aqui abrí el .gitignore desde el repositorio que está 
+
+# Archivos de compilación
+*.exe
+*.o
+*.obj
+*.out
+*.dll
+*.so
+*.dylib
+
+# Archivos de depuración
+*.gcda
+*.gcno
+*.gcov
+
+# Archivos temporales y logs
+*.tmp
+*.log
+*.swp
+
+# Archivos de editor/IDE
+*.code-workspace
+*.sublime-proyect
+*.sublime-workspace
+
+# Archivos de entorno
+*.env
