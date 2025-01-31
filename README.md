@@ -21,5 +21,5 @@ repositorio con clon link del repositorio remoto y ya se enlaza al local
 |  Repositorio local     |   [Repositorio local](docs/repositorio_local.md)   |
 |  Repositorio remoto    |   [Repositorio remoto](docs/repositorio_remoto.md) |
 
-![Repositorio local](repositorio_local_VSC.png)
-![Archivos md en VSC](archivos_md_en_VSC.png)
+![Repositorio local](images/repositorio_local_VSC.png)
+![Archivos md en VSC](images/archivos_md_en_VSC.png)
