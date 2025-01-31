@@ -19,11 +19,11 @@ cat se usa para mostrar lo que hay escrito en un archivo de texto
 git add se usa para llevar un archivo 
 editado al stage con la intención de guardarlo haciendo una copia de versión
 
-
+![uso del git add](image.png)
 
 git commit -m se usa para llevar este archivo del stage donde estaba al lugar donde se va a guardar esa versión
 
-
+![uso del git commit](uso_de_commit.png)
 
 git status se usa para ver en que estado se encuentra un archivo, ya sea en el stage o en el commit o si ya pasó por ahí  
 git log sirve para ver todos los commit que se han hecho 
