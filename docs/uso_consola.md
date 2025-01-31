@@ -24,5 +24,5 @@ find . -name nombre del directorio (sirve para buscar algun directorio)
 rm sirve para borrar algun archivo
 
 
-git branch se usa para crear una rama en la cual trabajar o modificar archivos
-
+git branch nombre de la rama se usa para crear una rama en la cual trabajar o modificar archivos
+git branch se usa para ver todas las ramas que hay
