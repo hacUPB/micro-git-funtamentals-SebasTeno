@@ -6,14 +6,30 @@ cd + el nonmbre de un directorio especifico sirve para entrar en este directorio
 ls sirve para listar todo lo que hay dentro del lugar donde me encuentro  
 ls -al sire para  listar todo lo que hay dentro del lugar donde me encuentro incluyendo los ocultos  
 cd .. devolverme al directorio anterior  
+
+![alt text](funcionamiento_de_cd_y_ls.png)
+
 mkdir se usa para crear un nuevo directorio  
 touch se usa para crear un archivo de texto  
 vim se usa para ingresar al archivo de texto y editarlo  
 cat se usa para mostrar lo que hay escrito en un archivo de texto  
-git add se usa para llevar un archivo editado al stage con la intención de guardarlo haciendo una copia de versión  
-git commit -m se usa para llevar este archivo del stage donde estaba al lugar donde se va a guardar esa versión  
+
+![uso del cat](uso_de_status-1.png)
+
+git add se usa para llevar un archivo 
+editado al stage con la intención de guardarlo haciendo una copia de versión
+
+
+
+git commit -m se usa para llevar este archivo del stage donde estaba al lugar donde se va a guardar esa versión
+
+
+
 git status se usa para ver en que estado se encuentra un archivo, ya sea en el stage o en el commit o si ya pasó por ahí  
-git log sirve para ver todos los commit que se han hecho  
+git log sirve para ver todos los commit que se han hecho 
+
+![uso del status](uso_de_status.png)
+
 git init se usa para iniciar un repositorio local  
 git clone se usa para clonar un repositorio usando un enlace (URL)  
 git pull se usa para extraer de la nube toda la información y empezar a usar el repositorio local  
