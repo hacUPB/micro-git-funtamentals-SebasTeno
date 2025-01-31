@@ -23,3 +23,6 @@ mv directorio que voy  a mover directorio a donde lo voy a mover, también sirve
 find . -name nombre del directorio (sirve para buscar algun directorio)
 rm sirve para borrar algun archivo
 
+
+git branch se usa para crear una rama en la cual trabajar o modificar archivos
+
