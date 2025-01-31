@@ -15,7 +15,11 @@ repositorio con clon link del repositorio remoto y ya se enlaza al local
 
 # Aquí voy a poner la tabla de contenido con enlaces
 
-| Nombre del Doc       | Enlace (PATH) |
-|--------------        |--------------|
-| [Uso de la consola   | Fila 1 Col 2 |
-| Repositorio local         | Fila 2 Col 2 |
+|     Nombre del Doc     |                    Enlace (PATH)                   |
+|------------------------|----------------------------------------------------|
+|  Uso de la consola     |   [Uso de la consola](docs/uso_consola.md)         |
+|  Repositorio local     |   [Repositorio local](docs/repositorio_local.md)   |
+|  Repositorio remoto    |   [Repositorio remoto](docs/repositorio_remoto.md) |
+
+![Repositorio local](repositorio_local_VSC.png)
+![Archivos md en VSC](archivos_md_en_VSC.png)
